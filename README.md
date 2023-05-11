@@ -38,13 +38,13 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" /> </a>&nbsp;
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /> </a>
 </div>
-<h3 align="left">&nbsp;&nbsp;&nbsp;&nbsp;🔵 Technologies</h3>
-<div align="center">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-f0f0e8?style=for-the-badge&logo=git&logoColor=#f44d27" alt="GIT" /> </a>
-</div>
 <h3 align="left">&nbsp;&nbsp;&nbsp;&nbsp;🔵 Mobile App Development</h3>
 <div align="center">
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Reactnative" /> </a>
+</div>
+<h3 align="left">&nbsp;&nbsp;&nbsp;&nbsp;🔵 Technologies</h3>
+<div align="center">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-f0f0e8?style=for-the-badge&logo=git&logoColor=#f44d27" alt="GIT" /> </a>
 </div>
 <hr/>
 

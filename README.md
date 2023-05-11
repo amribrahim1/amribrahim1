@@ -49,6 +49,7 @@
 <h3 align="left">&nbsp;&nbsp;&nbsp;&nbsp;🔵 Technologies</h3>
 <div align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-f0f0e8?style=for-the-badge&logo=git&logoColor=#f44d27" alt="GIT" /> </a>
+<a href="https://www.npmjs.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NPM-c60000?style=for-the-badge&logo=npm&logoColor=#f44d27" alt="NPM" /> </a>
 </div>
 <hr/>
 

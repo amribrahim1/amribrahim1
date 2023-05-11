@@ -42,6 +42,10 @@
 <div align="center">
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Reactnative" /> </a>
 </div>
+<h3 align="left">&nbsp;&nbsp;&nbsp;&nbsp;🔵 Database</h3>
+<div align="center">
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/mongoDB-001d2a?style=for-the-badge&logo=mongodb" alt="MongoDB" /> </a>
+</div>
 <h3 align="left">&nbsp;&nbsp;&nbsp;&nbsp;🔵 Technologies</h3>
 <div align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-f0f0e8?style=for-the-badge&logo=git&logoColor=#f44d27" alt="GIT" /> </a>
